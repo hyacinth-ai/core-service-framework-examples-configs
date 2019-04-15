@@ -1,0 +1,3 @@
+ai.hyacinth.core.service.gateway.server:
+  jwt:
+    issuer: gateway-issuer

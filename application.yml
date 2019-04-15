@@ -1,0 +1,5 @@
+spring:
+  zipkin:
+    enabled: true
+    base-url: http://docker.hyacinth.services:9411/
+    locator.discovery.enabled: false
