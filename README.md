@@ -1,3 +1,3 @@
-# core-service-framework-examples-configs
+# Core Service Framework Examples Configs
 
 Sample config repo for `Spring Cloud Config Server`.
